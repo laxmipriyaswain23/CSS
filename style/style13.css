@@ -1,0 +1,11 @@
+.c1{
+    height: 300px;
+    width: 300px;
+    /* background-image:radial-gradient(crimson,black) ; */
+    /* background-image: radial-gradient(blue,rgb(255, 97, 39),red,black,rgb(238, 78, 105),rgb(31, 129, 129),rgb(255, 165, 0),yellow);  */
+      /* background-image: radial-gradient(rgb(161, 21, 45),rgb(13, 13, 92));
+     border-radius: 50%;  */
+     /* background-image: radial-gradient(circle, rgb(168, 17, 62),rgb(123, 220, 245)); */
+     background-image: repeating-radial-gradient(pink 10%,black 20%,red 25%,rgb(175, 55, 11) 25%);
+    border-radius: 50%;  
+}

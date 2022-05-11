@@ -1,0 +1,19 @@
+ /* Descendant Selector */
+/* .c1 p{
+    background-color: lightcoral;
+} */
+
+/* child selector */
+/* div > p{
+    background-color:salmon;
+} */
+
+  /* General sibling selector */
+ /* p~h2{
+     background-color: turquoise;
+ } */
+
+ /* adjacent sibling selector */
+   p+h1{
+       background-color: blue;
+   }

@@ -1,0 +1,129 @@
+ /* .div1{
+    background-color: hotpink;
+    width: 450px;
+    height: 250px;
+    font-size: 25px; */
+    /* border-style: dotted; */
+    /* border-style: solid; */
+    /* border-style: dashed; */
+    /* border-style: double; */
+    /* border-width: 20px; */
+    /* border-style: outset; */
+    /* border-style: inset; */
+    /* border-style: groove; */
+    /* border-style: ridge; */
+    /* border-color:blueviolet; */
+
+    /* border shortcut */
+    /* border: 10px double brown; */
+/* }   */
+/* 
+ .div2{
+    background-color: rgb(54, 216, 231);
+    width: 450px;
+    height: 450px; */
+   /* border-radius: 50%; */
+   /* border: 20px double red; */
+/* } */
+/* 
+.div3{
+   background-color: rgb(206, 255, 243);
+   height: 250px;
+   width: 400px; */
+   /* border-left: 15px dotted rgb(255, 0, 157);
+   border-right:15px dotted  rgb(255, 0, 157);
+   border-top: 15px dotted  rgb(255, 0, 157);
+   border-bottom: 15px dotted  rgb(255, 0, 157) */
+/* 
+   border-left: 30px outset rgb(255, 7, 2);
+   border-bottom:30px outset rgb(204, 255, 0) ;
+   border-right: 30px outset rgb(67, 7, 186);
+   border-top: 30px outset rgb(255, 149, 211);
+} */
+
+/* .div4{
+    background-color: rgb(206, 255, 243);
+    height: 250px;
+    width: 400px; */
+    /* border-left: 15px dotted rgb(255, 0, 157);
+    border-right:15px dotted  rgb(255, 0, 157);
+    border-top: 15px dotted  rgb(255, 0, 157);
+    border-bottom: 15px dotted  rgb(255, 0, 157) */
+ 
+    /* border-left: 30px solid rgb(255, 7, 2);
+    border-bottom:30px solid rgb(204, 255, 0) ;
+    border-right: 30px solid rgb(67, 7, 186);
+    border-top: 30px solid rgb(255, 149, 211);
+    border-radius: 50%;
+ } */
+
+/* .div5{
+    background-color: whitesmoke;
+    height: 200px;
+    width: 200px;
+    
+    border-left: 20px solid rgb(255, 7, 2);
+    border-bottom:20px solid rgb(204, 255, 0) ;
+    border-right: 20px solid rgb(67, 7, 186);
+    border-top: 20px solid rgb(255, 149, 211);
+    border-radius: 50%;
+} */
+
+/* .div6{
+    background-color: whitesmoke;
+    height: 200px;
+    width: 200px;
+    
+    border-left: 20px solid rgb(255, 7, 2);
+    border-bottom:none ;
+    border-right: 20px solid rgb(67, 7, 186);
+    border-top:none;
+    border-radius: 50%;
+}  */
+
+/* .div7{
+    background-color: whitesmoke;
+    height: 200px;
+    width: 200px;
+    
+    border-left: 20px solid rgb(16, 249, 28);
+    border-right: 20px solid rgb(248, 3, 3);
+    border-bottom: 20px dashed rgb(8, 12, 229) ;
+    border-top: 20px dashed rgb(8, 12, 229);
+    border-radius: 25px;
+}  */
+
+/* .div8{
+    background-color: whitesmoke;
+    height: 200px;
+    width: 500px; */
+   /* border: 10px solid lightsalmon; */
+   /* border-left:10px solid lightsalmon ;
+   border-right: 10px solid rgb(157, 194, 250); */
+    /* border-radius: 25px; */
+    /* border-radius: 85px 0px 85px;
+}  */
+
+/* .div9{
+    background-color: whitesmoke;
+    height: 200px;
+    width: 500px; 
+    border:10px solid rgb(246, 12, 187) ; */
+   /* margin-top: 250px;
+   margin-bottom: 250px;
+   margin-left: 250px;
+   margin-right: 250px; */
+   /* margin: 100px; */
+   /* margin: auto
+} */
+
+.div10{
+    background-color: white;
+    height: 200px;
+    width: 500px; 
+    border:10px solid rgb(114, 233, 126) ;
+    /* padding-left: 50px; */
+    /* padding: 50px; */
+    margin: 100px;
+    padding: 50px 100px 250px 30px;
+}

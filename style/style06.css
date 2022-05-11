@@ -1,0 +1,15 @@
+p{
+    background-color: blueviolet!important;
+}
+div p{
+    background-color: forestgreen;
+}
+div > p{
+    background-color: cornflowerblue;
+}
+.c1{
+    background-color: yellow ;
+}
+#id1{
+    background-color: indigo;
+}

@@ -1,0 +1,69 @@
+/* tag selector */
+
+/* p {
+    color: red;
+} */
+/* tag selector */
+
+
+/* id selector */
+/* #id1 {
+    color: red;
+} */
+/* id selector */
+
+
+/* class selector */
+/* .c1 {
+    color:red;
+} */
+/* class selector */
+
+
+/* attribute selectors */
+/* input{
+    border: 5px solid red;
+} (invalid) */
+
+/* input[type="text"] {
+    border: 5px solid green;
+}
+ attribute selector */
+
+
+  /* groupping selector */
+
+  /* .c1{
+      background-color: blueviolet;
+  } (by using class selector) */
+
+  /* but by using groupping selectors */
+
+  /* div,p{
+      background-color: blueviolet;
+  }
+   groupping selectors */
+
+   /* universal selectors */
+
+   /* p,div,body,html{
+       border: 5px solid grey;
+   }(do not use this use *) */
+
+  /* *{
+    border:  5px solid hotpink;
+} for all */
+/* 
+  body{
+    border: 5px solid fuchsia;
+} */
+
+
+/* body{
+    color: red;
+} */
+
+/* *{
+    color: red;
+}
+ */

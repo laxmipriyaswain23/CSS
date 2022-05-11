@@ -1,0 +1,23 @@
+.c1{
+    height: 300px;
+    width: 300px;
+    /* background-color: turquoise; */
+    /* background-image:conic-gradient(blue,red); */
+    /* background-image:conic-gradient(blue,red,pink); */
+    /* background-image:conic-gradient(blue,red,yellow,turquoise); */
+    /* background-image:conic-gradient(blue,red,pink); */
+    /* background-image:conic-gradient(blue,red,pink,blue); */
+
+    /* background-image:conic-gradient(blue 180deg,red ,pink); */
+    /* border-radius: 50%; */
+    /* background-image:conic-gradient(blue 270deg,red ,pink); */
+    /* background-image:conic-gradient(at 25% 25%,blue 270deg,red ,pink); */
+    /* background-image:conic-gradient(at 80% 80%,blue 270deg,red ,pink); */
+    /* background-image:repeating-conic-gradient(rgb(2, 54, 3) 0deg,rgb(2, 88, 2) 20deg,yellow 20deg,yellow 40deg); */
+    /* background-image:conic-gradient(rgba(255,0,0,0.3),rgba(0,0,255,0.5)); */
+     background-image:repeating-conic-gradient(pink 0deg,red 90deg,rgb(125, 240, 228) 90deg,black 180deg);
+    border:2px solid black; 
+  background-size: 100px 100px;
+ 
+
+}
