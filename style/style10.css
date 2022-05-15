@@ -1,0 +1,15 @@
+.c1{
+    background-color: cyan;
+    height:550px;
+    width: 100%;
+    background-image: url(/images/Golf-Ball-png-hd.png);
+    background-repeat: no-repeat;
+    /* background-position: top right; */
+    /* background-position: bottom right; */
+    /* background-position: center center; */
+    /* background-position: top center; */
+    /* background-position:40% 40%; */
+    /* background-position: 150px 250px; */
+    /* background-position: bottom 50px right 150px; */
+    background-position: top 50px right 150px;
+}
