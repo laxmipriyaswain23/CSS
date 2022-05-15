@@ -1,0 +1,15 @@
+.c1{
+    height: 400px;
+    width: 600px;
+    background-color: lightpink;
+    font-size: 25px;
+    color: darkblue;
+    padding: 30px;
+    border: 20px dotted black;
+   background-color: cornflowerblue;
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-clip: border-box; */
+    /* background-clip: padding-box; */
+    background-clip: content-box;
+}
