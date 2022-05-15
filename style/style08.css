@@ -1,0 +1,16 @@
+.c1{
+    height: 400px;
+    width: 600px;
+    background-color: lightpink;
+    font-size: 25px;
+    color: darkblue;
+    padding: 30px;
+    border: 20px dotted black;
+    background-image: url("/images/boy.jpg");
+    /* background-size: cover; */
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-origin: content-box; */
+    /* background-origin: padding-box; */
+    background-origin: border-box;
+}
